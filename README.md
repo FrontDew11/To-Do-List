@@ -1,2 +1,3 @@
-# To-Do-List
-A simple To-Do-List App made with Python
+📝**To do list app**
+-simple to do list app made with python on termux
+-console based
