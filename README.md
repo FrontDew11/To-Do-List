@@ -32,6 +32,8 @@ python To-Do-List.py
 ​Loops and conditional logic (while True, if/elif/else)
 ​Exception handling (try/except IndexError)
 ​User-friendly numbering with enumerate(tasks, start=1)
+
 ​📄 **License**
+
 ​This project is open-source and available under the MIT License.
 
